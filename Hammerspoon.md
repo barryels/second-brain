@@ -1,0 +1,1 @@
+A Mac OS automation framework that uses the [[Lua]] programming language
